@@ -20,7 +20,7 @@ Would you like to filter the data by month, day, or not at all?
 
 Dataset : 
 
-its a Randomly selected dataset for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
+its a Randomly selected dataset for the first six months of 2017 are provided for all three cities, number of rows for each citz [200.000] row. All three of the data files contain the same core six (6) columns:
 
 Start Time (e.g., 2017-01-01 00:07:57)
 End Time (e.g., 2017-01-01 00:20:53)
