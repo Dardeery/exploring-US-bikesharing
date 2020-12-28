@@ -1,5 +1,7 @@
-# exploring-US-bikesharing
-exploring US bike sharing data across different states
+# exploring-US-bikesharing [Motivate Startup]
+exploring Motivate Startup bike sharing data across different states in the United States.
+
+![](https://github.com/Dardeery/exploring-US-bikesharing/blob/main/images/bike-race_1%403x.png)
 
 
 Overview:
