@@ -1,17 +1,17 @@
 # exploring-US-bikesharing [Motivate Startup]
-exploring Motivate Startup bike sharing data across different states in the United States.
+Exploring Motivate Startup bike sharing data across different states in the United States.
 
 ![](https://github.com/Dardeery/exploring-US-bikesharing/blob/main/images/bike-race_1%403x.png)
 
 
-Overview:
+### Overview:
 In this project, I am exploring the data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington.
 
 The source code takes in raw input from the user to create an interactive experience.
 According to the input the code will import the data and will provide information by computing descriptive statistics.
 
 
-Project in details: 
+### Project in details: 
 the script result the following questions to the user, and based on the answer the statistical analysis differs. 
 
 Would you like to see data for Chicago, New York, or Washington?
@@ -20,8 +20,7 @@ Would you like to filter the data by month, day, or not at all?
 (If they chose day) Which day - Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, or Sunday
 
 
-Dataset : 
-
+### Dataset : 
 its a Randomly selected dataset for the first six months of 2017 are provided for all three cities, number of rows for each city [200.000] row. All three of the data files contain the same core six (6) columns:
 
 Start Time (e.g., 2017-01-01 00:07:57)
