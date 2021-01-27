@@ -1,4 +1,4 @@
-# exploring-US-bikesharing [Motivate Startup]
+# exploring-US-bikesharing [Motivate Start-up]
 Exploring Motivate Startup bike sharing data across different states in the United States.
 
 ![](https://github.com/Dardeery/exploring-US-bikesharing/blob/main/images/bike-race_1%403x.png)
@@ -35,3 +35,7 @@ The Chicago and New York City files also have the following two columns:
 Gender
 Birth Year 
 [thats why, no stats regarding gender and age are apprearing for those two cities]
+
+### next sprint: 
+* fix the issue of the static date data output. 
+* add more visualization and insights.
